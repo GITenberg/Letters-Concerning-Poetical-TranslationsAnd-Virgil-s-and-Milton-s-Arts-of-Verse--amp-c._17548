@@ -1,0 +1,34 @@
+_repo: Letters-Concerning-Poetical-TranslationsAnd-Virgil-s-and-Milton-s-Arts-of-Verse--amp-c._17548
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, William
+    birthdate: 1682
+    deathdate: 1754
+    gutenberg_agent_id: '7448'
+    url: http://www.gutenberg.org/2009/agents/7448
+description: ''
+gutenberg_issued: '2006-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17548'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Benson, William, 1682-1754 -- Correspondence'
+- !lcsh 'English language -- Versification -- Early works to 1800'
+- !lcc 'PR'
+- !lcsh 'Milton, John, 1608-1674 -- Versification'
+- !lcsh 'Poetry -- Translating -- Early works to 1800'
+- !lcsh 'Virgil -- Versification'
+- !lcsh 'Latin language -- Translating into English -- Early works to 1800'
+- !lcsh 'Latin language -- Metrics and rhythmics -- Early works to 1800'
+title: 'Letters Concerning Poetical Translations
+
+  And Virgil''s and Milton''s Arts of Verse, &c.'
+url: http://www.gutenberg.org/ebooks/17548
