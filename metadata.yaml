@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7448'
     url: http://www.gutenberg.org/2009/agents/7448
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17548#Letters-Concerning-Poetical-TranslationsAnd-Virgil-s-and-Milton-s-Arts-of-Verse--amp-c.
 gutenberg_issued: '2006-01-18'
 gutenberg_type: Text
 identifiers:
